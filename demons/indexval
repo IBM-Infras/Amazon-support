@@ -5,4 +5,3 @@ You can add all changes at once using git add . command.
  
 You can add files one by one specifically using git add <file_name> command.
  
-You can add contents of a particular folder by using git add /<folder_name>/ command
