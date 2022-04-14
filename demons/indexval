@@ -1,0 +1,8 @@
+What does git add command do?
+This command adds files and changes to the index of the existing directory.
+ 
+You can add all changes at once using git add . command.
+ 
+You can add files one by one specifically using git add <file_name> command.
+ 
+You can add contents of a particular folder by using git add /<folder_name>/ command
