@@ -1,3 +1,4 @@
+This is dev branch line 
 ## It will remove the duplicate characters fron the give string##
 
 string = "Great responsibility";  
