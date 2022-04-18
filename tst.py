@@ -1,3 +1,5 @@
+## It will remove the duplicate characters fron the give string##
+
 string = "Great responsibility";  
    
 print("Duplicate characters in a given string: ");  
