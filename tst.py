@@ -1,3 +1,4 @@
+This is from master branch 
 ## It will remove the duplicate characters fron the give string##
 
 string = "Great responsibility";  
